@@ -17,29 +17,6 @@ body {
 
 /* Classes */
 
-/*
-.pic1 {
-  width:100%;
-  margin-left:-5px;
-  display:inline;
-  
-}
-
-.quote1 {
-  margin-top:10px;
-  padding: 10px;
-  margin-bottom:120px;
-}
-
-.pic1 {
-  border-radius: 05%;
-}
-
-.pic1, .quote {
-  padding: 30px;
-  display:block;
-}
-*/
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -86,25 +63,11 @@ body {
 
 @media all and (min-width:769px) {
 
+
+
+}
+
 /*
-.pic1 {
-    width:40%;
-    float:left;
-  }
-  .quote {
-    width:60%;
-    float:right;
-    padding-bottom:50px;
-  }
-  
-  .deck {
-  float:left;  
-}
-*/
-
-}
-
-
 @media all and (min-width:600px) {
 
 }
@@ -121,4 +84,4 @@ body {
     .card {
       width:33%;
   }
-}
+}*/
